@@ -31,7 +31,7 @@ Build the Docker image from the repository root so the source datasets are avail
 docker build -f client/Dockerfile -t fifa-world-cup-2026 .
 ```
 
-## AI / ML (Simple & Easy to Understand)
+## AI / ML
 
 The ML lives in `server/ml/predictor.js`:
 
