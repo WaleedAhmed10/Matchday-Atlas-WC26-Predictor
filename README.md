@@ -1,4 +1,6 @@
-# FIFA World Cup 2026 Predictor
+# Matchday Atlas Cup
+
+World Cup 2026 predictor, part of the **Matchday Atlas** family (sister app: Matchday Atlas Grid for F1). Unofficial fan project, not affiliated with FIFA.
 
 A **MERN Stack** web app that lets you build group stages, run tournament simulations, and get **AI/ML win predictions** for real football fans.
 
@@ -28,7 +30,7 @@ CSVs into its public data folder automatically before starting, building, or tes
 Build the Docker image from the repository root so the source datasets are available:
 
 ```bash
-docker build -f client/Dockerfile -t fifa-world-cup-2026 .
+docker build -f client/Dockerfile -t matchday-atlas-cup .
 ```
 
 ## AI / ML

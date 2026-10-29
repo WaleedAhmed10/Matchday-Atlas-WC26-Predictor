@@ -246,7 +246,7 @@ const Home = () => {
 
   return (
     <div className="container mt-4">
-      <h1 className="text-center mb-4">🏆 FIFA World Cup 2026 Predictor</h1>
+      <h1 className="text-center mb-4">🏆 Matchday Atlas Cup</h1>
       <p className="text-center lead">Predict match results and compete with others!</p>
       <div className="row mt-5">
         <div className="col-md-4"><div className="card text-center shadow"><div className="card-body"><h3>{stats.total || 0}</h3><p>Total Matches</p></div></div></div>

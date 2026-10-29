@@ -195,7 +195,7 @@ const Home = () => {
             </section>
 
             <footer className="home-footer">
-              <span>MATCHDAY ATLAS / WORLD CUP 2026</span>
+              <span>MATCHDAY ATLAS CUP / WORLD CUP 2026</span>
               <span>Good football. Better guesses.</span>
             </footer>
           </>
